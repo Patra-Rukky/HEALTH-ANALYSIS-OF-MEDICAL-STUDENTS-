@@ -31,4 +31,20 @@ To answer the questions, I used pivot tables an created charts
 - From this, it is seen that
   ![](Pivot1.png)
   ![](Picture1.png)
+
+### Average Height and Weight for both Genders (in 2 decimal places)
+![](Pivot2.png)
+![](Picture2.png)
+
+###  Number of students across the different Blood Groups
+![](Pivot3.png)
+![](Picture3.png)
+
+### Number of Students who smoke and those who don’t
+![](Pivot4.png)
+![](Picture4.png)
+
+### Number of Students who have diabetes and those who don’t
+![](Pivot5.png)
+![](Picture5.png)
   
