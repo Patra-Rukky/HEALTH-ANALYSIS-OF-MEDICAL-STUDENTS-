@@ -69,5 +69,5 @@ To answer the questions, I used pivot tables and created charts to illlustrate t
 
 ## CONCLUSION
 This analysis has shown that physical traits like height and weight are similar for students of both gender. It also shows that other health parameters are also similar amongst stdents.
-Finally, this analysis has shown that there can be further analysis into lifestyle and habits of students which in turn can be useful to create evets and plans for healthy living of students. 
+Finally, this analysis has shown that there can be further analysis into lifestyle and habits of students which in turn can be useful to create events and plans for healthy living of students. 
   
